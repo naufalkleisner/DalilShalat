@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/divider"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="320dp"
+                android:src="@drawable/rawatib"
+                android:scaleType="centerCrop"
+                android:id="@+id/imageView5" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30sp"
+                android:layout_gravity="center"
+                android:id="@+id/textView"
+                android:textColor="@android:color/primary_text_light"
+                android:text="Keutamaan Shalat Rawatib" />
+
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/primary_text"
+            android:layout_margin="@dimen/text_margin"
+            android:text="@string/ManfaatRawatib" />
+
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:hint="Sumber"
+                android:layout_margin="15dp"
+            android:text="https://rumaysho.com/698-merutinkan-shalat-sunnah-rawatib.html"
+            android:autoLink="web"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/sunnah"/>
+
+
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+</RelativeLayout>

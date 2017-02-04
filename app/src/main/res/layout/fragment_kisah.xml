@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary_light">
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="380dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/tumaninah"
+                    android:scaleType="centerCrop"
+                    android:id="@+id/imageView2" />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="25sp"
+                    android:layout_margin="5dp"
+                    android:gravity="center"
+                    android:id="@+id/textView"
+                    android:textColor="@android:color/holo_green_dark"
+                    android:text="Kisah Sahabat Nabi\nMuhammad ﷺ"/>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textColor="@color/primary_text"
+                android:layout_margin="@dimen/text_margin"
+                android:text="@string/Kisah"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:hint="Sumber"
+                android:layout_margin="15dp"
+                android:text="https://www.arrahmah.com/read/2012/07/27/21920-mutiara-hikmah-dari-panggung-sejarah-islam-8-thumaninah-dalam-shalat.html"
+                android:autoLink="web"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="350dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/tumakninah"
+                />
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+</RelativeLayout>

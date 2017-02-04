@@ -1,0 +1,578 @@
+<resources>
+    <string name="app_name">Dalil\nShalat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string name="ShalatFardhu">
+
+        "   Shalat adalah bentuk peribadatan yang dilakukan oleh umat muslim yaitu dengan berhadap hati kepada Allah SWT dan pelaksanaannya adalah dalam bentuk  perkataan maupun perbuatan yang diawali dengan takbir dan diakhiri dengan salam sesuai dengan syarat-syarat yang telah ditentukan syara’.\n\n"
+        "Allah SWT telah berfirman dalam  Q.S. Albaqarah ayat 43\n\n"
+
+        "و اقیموا الصلاة و آتوا الزکاة و ارکعوا مع الراکعین\n\n"
+
+        "Artinya:"
+        “Dan dirikanlah shalat, tunaikanlah zakat dan rukulah beserta orang-orang yang ruku.\n”
+        "Selain itu, dalam Al-Qur’an Surat Al-Ankabut ayat 45, Allah juga berfirman\n\n"
+
+                "اتْلُ مَا أُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلَاةَ ۖ إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ ۗ وَلَذِكْرُ اللَّهِ أَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ\n\n"
+
+        "Artinya:"
+        “Bacalah apa yang telah diwahyukan kepadamu, yaitu Al Kitab (Al Quran) dan dirikanlah shalat. Sesungguhnya shalat itu mencegah dari (perbuatan-perbuatan) keji dan mungkar. Dan sesungguhnya mengingat Allah (shalat) adalah lebih besar (keutamaannya dari ibadat-ibadat yang lain). Dan Allah mengetahui apa yang kamu kerjakan.\n\n”
+        "Shalat merupakan bentuk peribadatan bagi umat muslim yang harus dikerjakan dengan sebaik-baiknya guna memperoleh Ridlo dari Allah SWT. Shalat adalah rukun islam yang kedua, dimana jika dilihat dari hukumnya, ibadah ini dibedakan menjadi 2 jenis, yaitu shalat Fardhu dan juga shalat sunnah. Pembahasan kali ini adalah tentang shalat fardhu dan jenisnya.\n\n"
+        "Pengertian Shalat Fardhu (Shalat Wajib)\n\n"
+        "Shalat Fardhu atau yang sering kita sebut dengan shalat wajib adalah sholat yang apabila dikerjakan akan mendapatkan pahala dari Allah SWT, dan apabila ditinggalkan akan mendapatkan dosa. Dengan kata lain ibadah ini hukumnya wajib kita kerjakan, karena apabila kita satu waktu saja meninggalkannya, maka kita akan mendapatkan dosa dari Allah SWT.\n\n"
+
+        "Syarat – Syarat Melaksanakan Shalat.\n\n"
+
+        "1.Beragama islam.\n"
+        "2.Baligh dan berakal sehat.\n"
+        "3.Suci dari hadast.\n"
+        "4.Suci seluruh anggota tubuh, pakaian, dan tempat.\n"
+        "5.Menutup aurat.\n"
+        "6.Telah masuk waktu yang telah ditentukan untuk masing-masing shalat.\n"
+        "7.Menghadap kiblat.\n"
+        "8.Mengetahui antara yang termasuk rukun dan sunnah shalat.\n\n"
+
+
+        "Mari kita lanjutkan macam-macam Sholat Fardhu. ^^\n\n"
+        "dan Hanya ALLAH yang Maha Mengetahui\n"
+    </string>
+
+    <string name="MacamShalat">
+
+        "   Kaum muslimin sepakat bahwa sholat lima waktu harus dikerjakan pada waktunya, dalilnya adalah firman Allah Subhanahu wa Ta’ala,\n\n"
+
+        "إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا\n"
+
+        "“Sesungguhnya shalat itu adalah fardhu/wajib yang ditentukan waktunya atas orang-orang yang beriman”. [ QS. An Nisa’ (4) : 103]\n\n"
+        "Berikut penjelasan waktu-waktu sholat.\n\n"
+        "Sholat Shubuh/Fajar\n\n"
+        "Fajar secara bahasa berarti cahaya putih. Sholat fajar disebut juga sebagai sholat shubuh dan sholat ghodah.\n"
+        "Fajar ada dua jenis yaitu fajar pertama (fajar kadzib) yang merupakan pancaran sinar putih yang mencuat ka atas kemudian hilang dan setelah itu langit kembali gelap.\n"
+        "Fajar kedua adalah fajar shodiq yang merupakan cahaya putih yang memanjang di arah ufuk, cahaya ini akan terus menerus menjadi lebih terang hingga terbit matahari.\n\n"
+        "Sholat Zhuhur\n\n"
+        "Secara bahasa Zhuhur berarti waktu Zawal yaitu waktu tergelincirnya matahari (waktu matahari bergeser dari tengah-tengah langit) menuju arah tenggelamnya (barat).\n\n"
+        "Sholat zhuhur adalah sholat yang dikerjakan ketika waktu zhuhur telah masuk. Sholat zhuhur disebut juga sholat Al Uulaa (الأُوْلَى) karena sholat yang pertama kali dikerjakan Nabi shollallahu ‘alaihi was sallam bersama Jibril ‘Alaihis salam. Disebut juga sholat Al Hijriyah(الحِجْرِيَةُ)[] Berdasarkan hadits riwayat Al Bukhori No. 541\n\n"
+        "Awal waktu zhuhur adalah ketika matahari telah bergeser dari tengah langit menuju arah tenggelamnya (barat). Hal ini merupakan kesepakatan seluruh kaum muslimin, dalilnya adalah hadits Nabi Shollallahu ‘alaihi was sallam dari sahabat ‘Abdullah bin ‘Amr rodhiyallahu ‘anhu,\n\n"
+"وَقْتُ الظُّهْرِ إِذَا زَالَتِ الشَّمْسُ وَكَانَ ظِلُّ الرَّجُلِ كَطُولِهِ مَا لَمْ يَحْضُرِ الْعَصْرُ…….\n\n"
+        “Waktu Sholat Zhuhur adalah ketika telah tergelincir matahari (menuju arah tenggelamnya) hingga bayangan seseorang sebagaimana tingginya selama belum masuk waktu ‘Ashar……….” HR. Muslim No. 612.\n"
+        "Sholat ‘Ashar\n\n"
+        "‘Ashar secara bahasa diartikan sebagai waktu sore hingga matahari memerah yaitu akhir dari dalam sehari.\n"
+        "Sholat ‘ashar adalah sholat ketika telah masuk waktu ‘ashar, sholat ‘ashar ini juga disebut sholat woshtho (الوُسْطَى).\n"
+        "Awal Waktu Sholat ‘Ashar\n"
+        "Jika panjang bayangan sesuatu telah semisal dengan tingginya (menurut pendapat jumhur ulama). Dalilnya adalah hadits Nabi shollallahu ‘alaihi was sallam,\n"
+        "Sholat Maghrib\n"
+        "Secara bahasa maghrib berarti waktu dan arah tempat tenggelamnya matahari. Sholat maghrib adalah sholat yang dilaksanakan pada waktu tenggelamnya matahari.\n"
+        "Kaum Muslimin sepakat awal waktu sholat maghrib adalah ketika matahari telah tenggelam hingga matahari benar-benar tenggelam sempurna.\n\n"
+        "Sholat ‘Isya’\n"
+        "‘Isya’ adalah sebuah nama untuk saat awal langit mulai gelap (setelah maghrib) hingga sepertiga malam yang awal. Sholat ‘isya’ disebut demikian karena dikerjakan pada waktu tersebut.\n"
+        "dan Hanya ALLAH yang Maha Mengetahui\n"
+        "Sumber :"
+    </string>
+
+    <string name="SunnahShalat">
+
+
+        "   Ada lagi perkara sunnah yang dilakukan sesudah shalat yang bisa diamalkan.\n\n"
+
+        "1- Membaca istighfar dan dzikir lainnya sesudah shalat.\n\n"
+
+        "2- Berpindah tempat ketika melaksanakan shalat sunnah atau melaksanakan shalat sunnah di rumah. Di antara tujuannya adalah untuk memperbanyak tempat yang jadi saksi yang mendukung pada hari kiamat kelak.\n"
+        "Dari Zaid bin Tsabit, Rasulullah shallallahu ‘alaihi wa sallam bersabda\n\n",
+"فَصَلُّوا أَيُّهَا النَّاسُ فِى بُيُوتِكُمْ ، فَإِنَّ أَفْضَلَ الصَّلاَةِ صَلاَةُ الْمَرْءِ فِى بَيْتِهِ إِلاَّ الْمَكْتُوبَةَ\n\n"
+        "“Shalatlah kalian wahai manusia di rumah kalian. Karena sebaik-baik shalat kalian adalah shalat di rumahnya kecuali shalat wajib.” (HR. Bukhari no. 731).\n\n"
+        "Dari Jabir, Rasulullah shallallahu ‘alaihi wa sallam bersabda,\n"
+"إِذَا قَضَى أَحَدُكُمُ الصَّلاَةَ فِى مَسْجِدِهِ فَلْيَجْعَلْ لِبَيْتِهِ نَصِيبًا مِنْ صَلاَتِهِ فَإِنَّ اللَّهَ جَاعِلٌ فِى بَيْتِهِ مِنْ صَلاَتِهِ خَيْرًا\n\n"
+        "“Jika salah seorang di antara kalian menunaikan shalat di masjid, jadikanlah shalatnya (shalat sunnah) pula sebagiannya di rumah. Karena Allah akan menjadikan shalat tersebut kebaikan bagi rumah tersebut.” (HR. Muslim no. 778)\n"
+        "Disunnahkan berpindah tempat tersebut berdasarkan hadits As Saa-ib bin Yazid bahwa Mu’awiyyah radhiyallahu ‘anhu pernah berkata kepadanya, “Apabila engkau telah shalat Jum’at, janganlah engkau sambung dengan shalat lain sebelum engkau berbicara atau pindah dari tempat shalat. Demikianlah yang Rasulullah shallallahu ‘alaihi wa sallam perintahkan pada kami. Beliau shallallahu ‘alaihi wa sallam bersabda,\n\n"
+        "أَنْ لاَ تُوصَلَ صَلاَةٌ حَتَّى نَتَكَلَّمَ أَوْ نَخْرُجَ\n\n"
+        "“Janganlah menyambung satu shalat dengan shalat yang lain, sebelum kita berbicara atau pindah dari tempat shalat.” (HR. Muslim no. 883).\n\n"
+
+        "3- Jika shalat dilakukan di masjid dan di belakang terdapat jama’ah wanita, disunnahkan jama’ah pria untuk tetap diam di tempatnya sampai jama’ah wanita keluar lebih dahulu. Karena ikhtilath (campur baur antara pria dan wanita) dapat menimbulkan kerusakan.\n\n"
+
+        ""Dari Ummu Salamah radhiyallahu ‘anha, ia berkata,\n"
+"كَانَ رَسُولُ اللَّهِ – صلى الله عليه وسلم – إِذَا سَلَّمَ قَامَ النِّسَاءُ حِينَ يَقْضِى تَسْلِيمَهُ ، وَيَمْكُثُ هُوَ فِى مَقَامِهِ يَسِيرًا قَبْلَ أَنْ يَقُومَ . قَالَ نَرَى – وَاللَّهُ أَعْلَمُ – أَنَّ ذَلِكَ كَانَ لِكَىْ يَنْصَرِفَ النِّسَاءُ قَبْلَ أَنْ يُدْرِكَهُنَّ أَحَدٌ مِنَ الرِّجَالِ\n\n"
+        "“Rasulullah shallallahu ‘alaihi wa sallam jika salam dari shalat, para jama’ah wanita kala itu berdiri. Beliau tetap duduk di tempat beliau barang sebentar sebelum beranjak. Kami melihat –wallahu a’lam- hal itu dilakukan supaya wanita bubar lebih dahulu sebelum berpapasan dengan para pria.” (HR. Bukhari no. 870)\n"
+        "Semoga bermanfaat.\n"
+        "Referensi Utama:\n"
+        "Al Fiqhu Al Manhajiy ‘ala Madzhab Al Imam Asy Syafi’i, Dr. Musthofa Al Khin, Dr. Musthofa Al Bugho, ‘Ali Asy Syarbajiy, terbitan Darul Qolam, cetakan kesepuluh, tahun 1430 H.\n\n"
+        "dan Hanya ALLAH yang Maha Mengetahui\n"
+        "Sumber :"
+    </string>
+
+    <string name="Rawatib">
+        "   Apa yang dimaksud dengan shalat sunnah rawatib? Ada berapa rakaat shalat rawatib dalam sehari? Bagaimana cara melaksanakan shalat sunnah rawatib?\n\n"
+        "Al Lajnah Ad Daimah lil Buhuts wal Ifta di tanya, “apa yang dimaksud dengan shalat sunnah rawatib? Apabila saya melaksanakan shalat 4 rakaat sebelum dzuhur dan 4 rakaat sebelum ashar, apakah diharuskan untuk salam setiap 2 rakaat ataukah bagaimana? Jazakumullahu khairan“.\n\n"
+
+        "Mereka menjawab:\n"
+
+        "Shalat sunnah rawatib ada 12 rakaat:\n\n"
+
+        "4 rakaat sebelum dzuhur dengan 2 salam,\n"
+        "2 rakaat setelahnya dengan sekali salam,\n"
+        "2 rakaat setelah maghrib dengan 1 salam,\n"
+        "2 rakaat setelah isya dengan 1 salam,\n"
+        "2 rakaat sebelum shubuh dengan 1 salam.\n"
+
+        "Dan Rasulullah Shalallahu’alaihi wa Sallam selalu menjaga ke-12 rakaat tersebut ketika beliau sedang tidak bepergian. Beliau bersabda,\n\n"
+
+"من صلى ثنتي عشرة ركعة تطوعا في اليوم والليلة ، بني له بهن بيت في الجنة\n"
+
+        "“barangsiapa yang shalat sunnah 12 rakaat dalam sehari semalam, Allah akan bangunkan untuknya rumah di surga” (HR. Muslim no. 728).\n"
+
+        "Terdapat salah satu hadits yang menafsirkan 12 rakaat ini dengan shalat sunnah rawatib. Maka barangsiapa yang menjaganya, ia akan selalu dalam kebaikan yang besar. Di dalam hadits tersebut dijanjikan sebuah rumah di surga bagi orang yang melaksanakan shalat rawatib 12 rakaat tersebut. Yaitu 4 rakaat sebelum dzuhur dengan 2 salam, 2 rakaat setelahnya dengan sekali salam, 2 rakaat setelah maghrib dengan 1 salam, 2 rakaat setelah isya dengan 1 salam, 2 rakaat sebelum shubuh dengan 1 salam. Shalat-shalat ini disebut shalat rawatib.\n\n"
+
+        "Jika seseorang shalat 4 rakaat setelah shalat dzuhur maka di dalamnya terdapat keutamaan. Sebagaimana terdapat di dalam hadits,\n\n"
+
+""من حافظ على أربع قبل الظهر وأربع بعدها حرمه الله على النار\n"
+
+        "“barangsiapa yang shalat 4 rakaat sebelum dan sesudah dzuhur, maka Allah mengaharamkan neraka untuknya” (HR. Tirmidzi no. 428, Abu Daud no. 1269, An Nasa-i no. 1816).\n\n"
+
+        "Akan tetapi, 4 rakaat setelah dzuhur bukanlah shalat sunnah yang rawatib, karena yang menjadi rawatib hanya 2 rakaat saja. Jika kemudian menambah dan melaksanakan 2 rakaat untuk menambah rakaat dalam rangka meneladani tuntunan Nabi Shalallahu’alaihi wa Sallam, maka hal ini baik. Sebagaimana sabda Rasulallah Shalallahu’alaihi wa Sallam dalam hadits Ummul Mu’minin Ummu Habibah binti Abi Sufyan –radiyallahu’anha-, bahwa beliau mendengar Rasulallah Shalallahu’alaihi wa Sallam bersabda,\n\n"
+
+"من حافظ على أربع قبل الظهر وأربع بعدها حرمه الله على النار\n\n"
+
+        “barangsiapa yang shalat 4 rakaat sebelum dan sesudah dzuhur, maka Allah mengaharamkan neraka untuknya\n”
+
+        "Dan dianjurkan pula untuk shalat 4 rakaat sebelum ashar, namun bukan termasuk ke dalam shalat rawatib. Akan tetapi, dianjurkan untuk mengerjakannya dengan 2 kali salam sesuai dengan sabda Rasulullah Shalallahu’alaihi wa Sallam,\n\n"
+
+"رحم الله امرأ صلى قبل العصر أربعا\n"
+
+        "“Allah akan merahmati urusan seseorang bila ia shalat 4 rakaat sebelum shalat ashar”. Hadits ini diriwayatkan oleh Ahmad, tirmidzi, dan jamaah dengan sanad shahih dari Ibnu Umar Radiyallahu’anhuma.\n\n"
+
+        ""Dianjurkan pula untuk melaksanakan shalat sunnah di antara adzan dan iqamat dalam setiap waktu shalat, terlebih pada saat shalat maghrib dan isya. Rasulallah Shalallahu’alaihi wa Sallam bersabda,\n"
+
+"بين كل أذانين صلاة ، بين كل أذانين صلاة” وقال في الثالثة : “لمن شاء\n\n"
+
+        "“di setiap 2 adzan terdapat shalat, di setiap 2 adzan terdapat shalat, beliau berkata yang ketiga kalinya: bagi siapa yang menginginkan untuk melakukannya”. (HR. Al Bukhari no. 627, Muslim no. 828).\n\n"
+
+        "Rasulullah Shalallahu’alaihi wa Sallam juga bersabda,\n"
+
+"صلوا قبل المغرب ، صلوا قبل المغرب” ثم قال : “لمن شاء\n"
+
+        "“shalatlah kalian sebelum maghrib, shalatlah kalian sebelum maghrib, beliau berkata yang ketiga kalinya: bagi siapa yang menginginkan untuk melakukannya”. (HR. Al Bukhari nol 1183).
+
+        "Para sahabat Radhiyallahu’anhum selalu melaksanakan shalat sunnah setelah maghrib 2 rakaat. Mereka juga melaksanakan shalat 2 rakaat setelah adzan maghrib sebelum waktu iqamat dikumandangkan. Shalat sunnah ini bukanlah shalat sunnah yang rawatib akan tetapi shalat sunnah biasa. Empat rakaat setelah dzuhur bukanlah shalat sunaah rawatib, karena shalat sunnah rawatib setelah dzuhur hanya 2 rakaat. Shalat 4 rakaat sebelum shalat ashar dengan 2 salam adalah sunnah, tetapi bukanlah shalat sunnah yang rawatib. akan tetapi, shalat sunnah tersebut nabi perintahkan dan tekankan untuk mengerjakannya.\n\n"
+
+        "dan Hanya ALLAH yang Maha Mengetahui\n"
+    </string>
+
+    <string name="ManfaatRawatib">
+
+        "   Keutamaan Shalat Sunnah Rawatib\n"
+        "Pertama: Shalat adalah sebaik-baik amalan\n"
+        "Nabi shallallahu ‘alaihi wa sallam bersabda,\n"
+"وَاعْلَمُوا أَنَّ خَيْرَ أَعْمَالِكُمُ الصَّلاَةُ\n"
+        "“Ketahuilah, sebaik-baik amalan bagi kalian adalah shalat.”\n"
+        "Kedua: Akan meninggikan derajat di surga karena banyaknya shalat tathowwu’ (shalat sunnah) yang dilakukan\n"
+        "Tsauban –bekas budak Rasulullah shallallahu ‘alaihi wa sallam– pernah ditanyakan mengenai amalan yang dapat memasukkannya ke dalam surga atau amalan yang paling dicintai oleh Allah. Kemudian Tsauban mengatakan bahwa beliau pernah menanyakan hal tersebut pada Rasulullah shallallahu ‘alaihi wa sallam, lantas beliau menjawab,\n\n"
+"عَلَيْكَ بِكَثْرَةِ السُّجُودِ لِلَّهِ فَإِنَّكَ لاَ تَسْجُدُ لِلَّهِ سَجْدَةً إِلاَّ رَفَعَكَ اللَّهُ بِهَا دَرَجَةً وَحَطَّ عَنْكَ بِهَا خَطِيئَةً\n\n"
+        "“Hendaklah engkau memperbanyak sujud kepada Allah karena  tidaklah engkau bersujud pada Allah dengan sekali sujud melainkan Allah akan meninggikan satu derajatmu dan menghapuskan satu kesalahanmu.”Ini baru sekali sujud. Lantas bagaimanakah dengan banyak sujud atau banyak shalat yang dilakukan?!\n"
+        "Ketiga: Menutup kekurangan dalam shalat wajib\n"
+        "Seseorang dalam shalat lima waktunya seringkali mendapatkan kekurangan di sana-sini sebagaimana diisyaratkan oleh Nabi shallallahu ‘alaihi wa sallam,\n\n"
+"إِنَّ الرَّجُلَ لَيَنْصَرِفُ وَمَا كُتِبَ لَهُ إِلاَّ عُشْرُ صَلاَتِهِ تُسْعُهَا ثُمُنُهَا سُبُعُهَا سُدُسُهَا خُمُسُهَا رُبُعُهَا ثُلُثُهَا نِصْفُهَا\n\n"
+        "“Sesungguhnya seseorang ketika selesai dari shalatnya hanya tercatat baginya sepersepuluh, sepersembilan, seperdelapan, sepertujuh, seperenam, seperlima, seperempat, sepertiga, separuh dari shalatnya.”\n\n"
+        "Untuk menutup kekurangan ini, disyari’atkanlah shalat sunnah. Nabi shallallahu ‘alaihi wa sallam bersabda,\n"
+"إِنَّ أَوَّلَ مَا يُحَاسَبُ النَّاسُ بِهِ يَوْمَ الْقِيَامَةِ مِنْ أَعْمَالِهِمُ الصَّلاَةُ قَالَ يَقُولُ رَبُّنَا جَلَّ وَعَزَّ لِمَلاَئِكَتِهِ وَهُوَ أَعْلَمُ انْظُرُوا فِى صَلاَةِ عَبْدِى أَتَمَّهَا أَمْ نَقَصَهَا فَإِنْ كَانَتْ تَامَّةً كُتِبَتْ لَهُ تَامَّةً وَإِنْ كَانَ انْتَقَصَ مِنْهَا شَيْئًا قَالَ انْظُرُوا هَلْ لِعَبْدِى مِنْ تَطَوُّعٍ فَإِنْ كَانَ لَهُ تَطَوُّعٌ قَالَ أَتِمُّوا لِعَبْدِى فَرِيضَتَهُ مِنْ تَطَوُّعِهِ ثُمَّ تُؤْخَذُ الأَعْمَالُ عَلَى ذَاكُمْ\n\n"
+        "“Sesungguhnya amalan yang pertama kali akan diperhitungkan dari manusia pada hari kiamat dari amalan-amalan mereka adalah shalat. Kemudian Allah Ta’ala mengatakan pada malaikatnya dan Dia lebih Mengetahui segala sesuatu, “Lihatlah kalian pada shalat hamba-Ku, apakah sempurna ataukah memiliki kekurangan? Jika shalatnya sempurna, maka akan dicatat baginya pahala yang sempurna. Namun, jika shalatnya terdapat beberapa kekurangan, maka lihatlah kalian apakah hamba-Ku memiliki amalan shalat sunnah? Jika ia memiliki shalat sunnah, maka sempurnakanlah pahala bagi hamba-Ku dikarenakan shalat sunnah yang ia lakukan. Kemudian amalan-amalan lainnya hampir sama seperti itu.”\n\n"
+        "Keempat: Rutin mengerjakan shalat rawatib 12 raka’at dalam sehari akan dibangunkan rumah di surga.\n"
+        "Dari Ummu Habibah –istri Nabi shallallahu ‘alaihi wa sallam-, Rasulullah shallalahu ‘alaihi wa sallam bersabda,\n"
+"« مَنْ صَلَّى اثْنَتَىْ عَشْرَةَ رَكْعَةً فِى يَوْمٍ وَلَيْلَةٍ بُنِىَ لَهُ بِهِنَّ بَيْتٌ فِى الْجَنَّةِ\n\n"
+        "“Barangsiapa mengerjakan shalat sunnah dalam sehari-semalam sebanyak 12 raka’at, maka karena sebab amalan tersebut, ia akan dibangun sebuah rumah di surga.”\n"
+        "Coba kita lihat, bagaimana keadaan para periwayat hadits ini ketika mendengar hadits tersebut. Di antara periwayat hadits di atas adalah An Nu’man bin Salim, ‘Amr bin Aws, ‘Ambasah bin Abi Sufyan dan Ummu Habibah –istri Nabi shallallahu ‘alaihi wa sallam– yang mendengar dari Nabi shallallahu ‘alaihi wa sallam secara langsung.\n\n"
+        "Ummu Habibah mengatakan, “Aku tidak pernah meninggalkan shalat sunnah dua belas raka’at dalam sehari sejak aku mendengar hadits tersebut langsung dari Rasulullah shallallahu ‘alaihi wa sallam. ”\n"
+        "‘Ambasah mengatakan, “Aku tidak pernah meninggalkan shalat sunnah dua belas raka’at dalam sehari sejak aku mendengar hadits tersebut dari Ummu Habibah.”\n"
+        "‘Amr bin Aws mengatakan, “Aku tidak pernah meninggalkan shalat sunnah dua belas raka’at dalam sehari sejak aku mendengar hadits tersebut dari ‘Ambasah.”\n"
+        "An Nu’man bin Salim mengatakan, “Aku tidak pernah meninggalkan shalat sunnah dua belas raka’at dalam sehari sejak aku mendengar hadits tersebut dari ‘Amr bin Aws.”\n"
+        "Yang dimaksudkan dengan shalat sunnah dua belas raka’at dalam sehari dijelaskan dalam riwayat At Tirmidzi, dari ‘Aisyah. Nabi shallallahu ‘alaihi wa sallam bersabda,
+"مَنْ ثَابَرَ عَلَى ثِنْتَىْ عَشْرَةَ رَكْعَةً مِنَ السُّنَّةِ بَنَى اللَّهُ لَهُ بَيْتًا فِى الْجَنَّةِ أَرْبَعِ رَكَعَاتٍ قَبْلَ الظُّهْرِ وَرَكْعَتَيْنِ بَعْدَهَا وَرَكْعَتَيْنِ بَعْدَ الْمَغْرِبِ وَرَكْعَتَيْنِ بَعْدَ الْعِشَاءِ وَرَكْعَتَيْنِ قَبْلَ الْفَجْرِ\n"
+        "“Barangsiapa merutinkan shalat sunnah dua belas raka’at dalam sehari, maka Allah akan membangunkan bagi dia sebuah rumah di surga. Dua belas raka’at tersebut adalah empat raka’at sebelum  zhuhur, dua raka’at sesudah zhuhur, dua raka’at sesudah maghrib, dua raka’at sesudah ‘Isya, dan dua raka’at sebelum shubuh.”\n\n"
+        "Hadits di atas menunjukkan dianjurkannya merutinkan shalat sunnah rawatib sebanyak 12 raka’at setiap harinya.\n"
+        "Dua belas raka’at rawatib yang dianjurkan untuk dijaga adalah:  empat raka’at sebelum Zhuhur,  dua raka’at sesudah Zhuhur, dua raka’at sesudah Maghrib, dua raka’at sesudah ‘Isya’,  dua raka’at sebelum Shubuh.\n"
+
+        "dan Hanya ALLAH yang Maha Mengetahui\n"
+        "Sumber :"
+    </string>
+
+    <string name="Subuh">
+
+        "   Sebagaimana disebutkan dalam matan Abi Syuja’, “Awal waktu shalat Shubuh adalah saat terbit fajar kedua (fajar shodiq). Akhir waktunya -yang disebut waktu ikhtiyar (pilihan)- adalah sampai isfaar. Akhir waktu jawaz (bolehnya) adalah sampai matahari terbit.”\n\n"
+        "Awal waktu shalat Fajar (shubuh) adalah mulai dari terbit fajar shadiq. Sebagaimana disebutkan dalam hadits ‘Abdullah bin ‘Amr berikut,\n"
+
+"وَوَقْتُ صَلاَةِ الصُّبْحِ مِنْ طُلُوعِ الْفَجْرِ\n\n"
+
+        "“Waktu shalat Shubuh adalah mulai terbit fajar (shodiq).” (HR. Muslim no. 612).\n"
+        "Fajar sendiri ada dua macam yaitu fajar shodiq dan fajar kadzib. Pancaran cahaya yang menjulang seperti ekor serigala dan setelah itu masih terlihat gelap, ini yang disebut fajar kadzib (fajar pertama). Sedangkan cahaya yang mendatar horizontal di ufuk, ini yang disebut fajar shodiq (fajar kedua). (Lihat bahasan di Kifayatul Akhyar, hal. 81 dan Al Iqna’, 1: 200).\n\n"
+        "Sedangkan akhir waktu shalat Shubuh, ada yang disebut waktu ikhtiyar. Waktu ikhtiyar adalah waktu akhir yang dipilih oleh Jibril ketika ia mengimami Nabi –shallallahu ‘alaihi wa sallam- pada hari kedua. Di akhir hadits disebut, “Waktu shalat adalah antara dua waktu ini”, yaitu antara waktu pada hari pertama dan waktu kedua. Waktu akhir inilah yang disebut waktu ikhtiyar (Lihat Kifayatul Akhyar, hal. 81 dan Al Iqna’, 1: 201). Waktu ikhtiyar-nya adalah pada saat isfaar, yaitu ketika mulai terang (lihat Fathul Qodir, hal. 69 dan Al Iqna’, 1: 200). Dalil yang menunjukkan akhir waktu ikhtiyar adalah hadits tentang shalat Jibril yang mengimami Nabi –shallallahu ‘alaihi wa sallam– pada hari kedua,\n\n"
+"وَصَلَّى بِىَ الْفَجْرَ فَأَسْفَرَ\n\n"
+        "“Kemudian ia shalat Shubuh bersamaku setelah itu waktu isfaar”\n"
+        "Adapun waktu jawaz atau bolehnya adalah sampai matahari terbit. Yang dimaksud terbit adalah muncul sebagian matahari. Hal ini berbeda dengan tenggelamnya matahari yang dipersyaratkan semuanya harus tenggelam (Lihat Al Iqna’, 1: 201). Waktu jawaz ini disebutkan dalam hadits ‘Abdullah bin ‘Amr,\n\n"
+"صَلاَةِ الصُّبْحِ مِنْ طُلُوعِ الْفَجْرِ مَا لَمْ تَطْلُعِ الشَّمْسُ\n\n"
+        "“Waktu shalat Shubuh adalah mulai terbit fajar (shodiq) selama matahari belum terbit”\n"
+        "Ulama Syafi’iyah membagi waktu Shubuh menjadi enam waktu:\n\n"
+
+        "(1) waktu fadhilah (utama), yaitu di awal waktu.\n"
+        "(2) waktu ikhtiyar (pilihan), yaitu sebagaimana waktu awal dan akhir yang dipraktekkan Jibril ketika menemani Nabi –shallallahu ‘alaihi wa sallam-, waktunya adalah hingga waktu isfaar (mulai terang).\n"
+        "(3) waktu jawaz bi laa karohah (boleh dan tidak makruh), yaitu hingga muncul cahaya merah di ufuk (sebelum matahari terbit).\n"
+        "(4) waktu karohah (makruh), yaitu mulai muncul cahaya merah di ufuk hingga matahari terbit.\n"
+        "(5) waktu haram, yaitu di luar waktunya.\n"
+        "(6) waktu dhoruroh bagi orang yang udzur. (Lihat Al Iqna’, 1: 201)\n\n"
+
+        "Shalat Shubuh ini disunnahkan dilakukan di awal waktu. Di antara dalilnya adalah perkataan ‘Aisyah,\n"
+"كُنَّ نِسَاءُ الْمُؤْمِنَاتِ يَشْهَدْنَ مَعَ رَسُولِ اللَّهِ – صلى الله عليه وسلم – صَلاَةَ الْفَجْرِ مُتَلَفِّعَاتٍ بِمُرُوطِهِنَّ ، ثُمَّ يَنْقَلِبْنَ إِلَى بُيُوتِهِنَّ حِينَ يَقْضِينَ الصَّلاَةَ ، لاَ يَعْرِفُهُنَّ أَحَدٌ مِنَ الْغَلَسِ\n"
+        "“Para wanita mukminah dahulu pernah menghadiri shalat Shubuh berjama’ah di belakang Rasulullah -shallallahu ‘alaihi wa sallam- dengan mengerudungi kepala dengan kain.  Kemudian mereka kembali ke rumah masing-masing ketika shalat telah selesai. Mereka tidak dikenali seorang pun karena keadaan masih gelap (pagi buta).” (HR. Bukhari no. 578).\n\n"
+        "Hal di atas dikuatkan lagi dengan hadits berikut,
+"عَنْ أَنَسٍ عَنْ زَيْدِ بْنِ ثَابِتٍ – رضى الله عنه – قَالَ تَسَحَّرْنَا مَعَ رَسُولِ اللَّهِ -صلى الله عليه وسلم- ثُمَّ قُمْنَا إِلَى الصَّلاَةِ. قُلْتُ كَمْ كَانَ قَدْرُ مَا بَيْنَهُمَا قَالَ خَمْسِينَ آيَةً\n\n"
+        "Dari Anas, dari Zaid bin Tsabit –radhiyallahu ‘anhu-, ia berkata, “Kami pernah bersahur bersama Rasulullah -shallallahu ‘alaihi wa sallam- kemudian kami berdiri untuk menegakkan shalat.” Aku (Anas) bertanya pada Zaid, “Berapa lama waktu antara makan sahur dan waktu shalat akan ditegakkan?” Zaid menjawab, “Sekitar (membaca) 50 ayat.” (HR. Muslim no. 1097). Jarak waktu antara selesai makan sahur dan masuknya waktu pelaksanaan shalat adalah sekitar membaca 50 ayat Qur’an, waktu seperti ini seperti lama waktu berwudhu. Ini menunjukkan bahwa shalat tersebut dilakukan di awal waktu Shubuh (Lihat Shahih Fiqh Sunnah, 1: 249-250).\n\n"
+        "Demikian bahasan kami mengenai waktu-waktu shalat. Semoga dengan mengetahui hal ini kita dapat menunaikan shalat pada waktunya. Semoga Allah memudahkan kita pula untuk beramal sholih. Wallahu waliyyut taufiq.\n"
+        "Alhamdulillahilladzi bi ni’matihi tatimmush sholihaat, segala puji bagi Allah yang dengan nikmat-Nya segala kebaikan menjadi sempurna.\n\n"
+        "dan Hanya ALLAH yang Maha Mengetahui\n"
+        "Sumber :"
+    </string>
+
+    <string name="Dhuhur">
+
+        "   Awal waktu shalat Zhuhur  adalah waktu zawal, yaitu saat matahari bergeser ke barat. Waktu zawal ini adalah saat matahari condong dari pertengahan langit ke arah barat (Lihat Al Iqna’, 1: 196). Ketika seseorang memulai takbir sebelum zawal lalu nampak zawal setelah ia bertakbir untuk shalat atau di pertengahannya, maka shalatnya tidaklah sah. Demikian penjelasan dalam Al Iqna’, 1: 196.\n"
+        "Sedangkan waktu akhir shalat Zhuhur adalah saat panjang bayangan yang bertambah sama dengan panjang benda (selain panjang bayangan saat zawal). Akhirnya waktu Zhuhur, inilah dimulainya waktu shalat ‘Ashar. Inilah pendapat jumhur (ulama) yang diselisihi Imam Abu Hanifah, di mana beliau berpendapat bahwa akhir waktu shalat Zhuhur adalah saat tinggi bayangan sama dengan dua kali tingginya selain tinggi bayangan saat zawal.\n"
+        "Disunnahkan mengerjakan shalat Zhuhur di awal waktu. Dalam hadits Jabir bin Samuroh, ia berkata,\n"
+"كَانَ النَّبِىُّ -صلى الله عليه وسلم- يُصَلِّى الظُّهْرَ إِذَا دَحَضَتِ الشَّمْسُ\n"
+        "“Nabi shallallahu ‘alaihi wa sallam pernah shalat Zhuhur ketika matahari telah tergelincir ke barat (waktu zawal).” (HR. Muslim no. 618).\n"
+        "Disunnahkan mengakhirkan shalat Zhuhur ketika cuaca begitu panas. Hal ini berdasarkan hadits Anas bin Malik,\n"
+"كَانَ النَّبِىُّ – صلى الله عليه وسلم – إِذَا اشْتَدَّ الْبَرْدُ بَكَّرَ بِالصَّلاَةِ ، وَإِذَا اشْتَدَّ الْحَرُّ أَبْرَدَ بِالصَّلاَةِ\n"
+        "“Nabi shallallahu ‘alaihi wa sallam biasanya jika keadaan sangat dingin beliau menyegerakan shalat dan jika keadaan sangat panas/terik beliau mengakhirkan shalat” (HR. Bukhari no. 906).\n\n"
+        "Dalam hadits lainnya disebutkan,\n"
+"إِذَا اشْتَدَّ الْحَرُّ فَأَبْرِدُوْا عَنِ الصَّلاَةِ، فَإِنَّ شِدَّةَ الْحَرِّ مِنْ فَيْحِ جَهَنَّمَ\n"
+        "“Apabila cuaca sangat panas, akhirkanlah shalat zhuhur sampai waktu dingin karena panas yang sangat merupakan hawa panas neraka jahannam.” (HR. Bukhari no. 536 dan Muslim no. 615). Batasan mendinginkan (mengakhirkan) berbeda-beda sesuai keadaan selama tidak terlalu panjang hingga mendekati waktu akhir shalat (Lihat Shahih Fiqh Sunnah, 1: 239).\n\n"
+        ""Kata ulama Syafi’iyah, shalat Zhuhur memiliki tiga waktu: (1) waktu utama yaitu di awal waktu, (2) waktu ikhtiyar (pilihan) hingga akhir waktu,  (3) waktu ‘udzur yaitu waktu shalat ‘Ashar bagi yang menjamak shalat. (Al Iqna’, 1: 196)\n\n"
+        " dan Hanya ALLAH yang Maha Mengetahui\n"
+        "Sumber :"
+    </string>
+
+    <string name="Ashar">
+        "   Awal waktu shalat ‘Ashar adalah ketika panjang bayangan sama dengan panjang bendanya. Demikian pendapat jumhur ulama yang diselisihi oleh Abu Hanifah. Dalilnya telah disebutkan dalam tulisan sebelumnya di sini.\n\n"
+        "Sedangkan mengenai waktu akhir shalat ‘Ashar terlihat saling bertentangan antara dalil-dalil yang ada.\n"
+        "Dalam hadits ketika Jibril mengimami Nabi shallallahu ‘alaihi wa sallam, shalat pada hari pertama pada saat panjang bayangan sama dengan panjang benda. Sedangkan esoknya, pada saat panjang bayangan sama dengan dua kali panjang benda. Lalu dikatakan di akhir hadits bahwa batasan waktu shalat adalah antara dua waktu tersebut. Inilah yang disebut dengan waktu ikhtiyar menurut Syafi’iyah. (Lihat Al Iqna’, 1: 197)\n\n"
+        "Sedangkan dalam hadits ‘Abdullah bin ‘Amr disebutkan “Waktu Ashar masih terus ada selama matahari belum menguning”,\n"
+        "Dalam hadits Abu Hurairah disebutkan bahwa Nabi shallallahu ‘alaihi wa sallam bersabda,
+"مَنْ أَدْرَكَ رَكْعَةً مِنَ الْعَصْرِ قَبْلَ أَنْ تَغْرُبَ الشَّمْسُ فَقَدْ أَدْرَكَ الْعَصْرَ\n\n"
+        "“Barangsiapa yang mendapati satu raka’at shalat ‘Ashar sebelum matahari tenggelam maka ia telah mendapatkan shalat ‘Ashar”. (HR. Bukhari no. 579 dan Muslim no. 608).\n"
+        "Dari dalil-dalil di atas disimpulkan oleh ulama Syafi’iyah bahwa shalat ‘Ashar memiliki empat waktu:\n"
+        "(1) waktu fadhilah (utama) yaitu sampai panjang bayangan sama dengan dua kali panjang benda,\n"
+        "(2) waktu jawaz bi laa karohah (boleh dan tidak makruh), yaitu mulai ketika panjang bayangan telah dua kali panjang benda hingga matahari menguning,\n"
+        "(3) waktu karohah (makruh), yaitu mulai saat matahari menguning hingga mendekati tenggelam,\n"
+        "(4) waktu tahrim (haram), yaitu mengakhirkan waktu shalat hingga waktu yang tidak diperkenankan.\n"
+        "Semua shalat yang dikerjakan pada waktu-waktu di atas dinamakan adaa-an (bukan qodho’). Demikian penjelasan dalam Kifayatul Akhyar, hal. 80 dan juga disinggung dalam Al Iqna’, 1: 197 yang menyebutkan sampai tujuh waktu.\n"
+        "Shalat yang dilakukan menjelang matahari tenggelam, itulah shalatnya orang munafik. Dalam hadits Anas disebutkan bahwa Rasulullah shallallahu ‘alaihi wa sallam bersabda,\n"
+"تِلْكَ صَلاَةُ الْمُنَافِقِ يَجْلِسُ يَرْقُبُ الشَّمْسَ حَتَّى إِذَا كَانَتْ بَيْنَ قَرْنَىِ الشَّيْطَانِ قَامَ فَنَقَرَهَا أَرْبَعًا لاَ يَذْكُرُ اللَّهَ فِيهَا إِلاَّ قَلِيلاً\n"
+        "“Itulah shalat orang munafik. Ia duduk menanti matahari di antara dua tanduk setan lalu ia berdiri dan melaksanakan shalat empat raka’at dengan cepat. Tidaklah ia mengingat Allah kecuali sedikit.”(HR. Muslim no. 622).\n\n"
+        "Disunnahkan shalat ‘Ashar dilakukan segera mungkin di awal waktu. Hal ini berdasarkan hadits Anas,\n"
+"كَانَ رَسُولُ اللَّهِ – صلى الله عليه وسلم – يُصَلِّى الْعَصْرَ وَالشَّمْسُ مُرْتَفِعَةٌ حَيَّةٌ\n"
+        "“Rasulullah shallallahu ‘alaihi wa sallam pernah melaksanakan sholat ‘ashar ketika matahari masih tinggi, tidak berubah sinar dan panasnya.” (HR. Bukhari no. 550 dan Muslim no. 621).\n"
+        "Hal di atas lebih ditekankan lagi ketika cuaca mendung agar tidak terjadi kesamaran dalam pengerjaan shalat ‘Ashar tersebut. Jika tidak malah dikerjakan di luar waktu atau dilakukan saat matahari telah menguning. Dari Abul Malih, ia mengatakan,\n"
+"كُنَّا مَعَ بُرَيْدَةَ فِى غَزْوَةٍ فِى يَوْمٍ ذِى غَيْمٍ فَقَالَ بَكِّرُوا بِصَلاَةِ الْعَصْرِ فَإِنَّ النَّبِىَّ – صلى الله عليه وسلم – قَالَ « مَنْ تَرَكَ صَلاَةَ الْعَصْرِ فَقَدْ حَبِطَ عَمَلُهُ\n"
+        "“Kami pernah bersama Buraidah pada saat perang di hari yang mendung. Kemudian ia berkata, “Segerakanlah shalat ‘Ashar karena Nabi shallallahu ‘alaihi wa sallam bersabda, “Barangsiapa yang meninggalkan shalat ‘Ashar maka terhapuslah amalnya”. (HR. Bukhari no. 553).\n\n"
+        "dan Hanya ALLAH yang Maha Mengetahui\n"
+        "Sumber :"
+    </string>
+
+    <string name="Maghrib">
+
+        "   Sebagaimana disebutkan di awal pembahasan bahwa waktu shalat Maghrib menurut penulis Matan Al Ghoyah wat Taqrib, “Waktunya hanya satu, dimulai saat matahari tenggelam. Lamanya sekadar adzan, berwudhu, menutup aurat, iqomah dan mengerjakan shalat 5 raka’at.” Yang dimaksud shalat 5 raka’at adalah shalat Maghrib 3 raka’at ditambah shalat sunnah ba’da Maghrib 2 raka’at.\n"
+        "Dalil dari pendapat di atas adalah yang disebutkan dalam hadits Jibril karena ia pada hari pertama dan kedua mengerjakan shalat Maghrib di satu waktu. Hal ini berbeda dengan pengerjaan shalat lain yang dilakukan oleh Jibril. Demikian jadi alasan sebagian besar ulama Syafi’iyah. Inilah qoul jadiid dari Imam Syafi’i, yaitu pendapat ketika beliau di Mesir (Lihat Al Iqna’, 1: 198).\n\n"
+        "Yang pasti awal waktu shalat Maghrib adalah saat matahari tenggelam dengan sempurna sebagaimana disebutkan dalam hadits Jibril ‘alaihis salam yang telah kita bahas di awal. Awal waktu ini disepakati oleh para ulama.\n"
+        "Sedangkan mengenai akhir waktu shalat Maghrib diperselisihkan oleh para ulama termasuk oleh ulama Syafi’iyah sendiri. Sebagian ulama Syafi’iyah berbeda dengan pendapat di atas. Mereka menganggap bahwa shalat Maghrib yang dilakukan oleh Jibril di satu waktu menunjukkan bahwa waktu tersebut adalah waktu fadhilah (utama). Menurut Imam Nawawi, waktu shalat Maghrib masih boleh hingga cahaya merah saat matahari tenggelam menghilang. Dalilnya adalah hadits ‘Abdullah bin ‘Amr,\n\n"
+"وَوَقْتُ صَلاَةِ الْمَغْرِبِ مَا لَمْ يَغِبِ الشَّفَقُ\n"
+        "“Waktu shalat Maghrib adalah selama cahaya merah (saat matahari tenggelam) belum hilang.” (HR. Muslim no. 612). Inilah di antara alasan Imam Nawawi dan sebagian ulama Syafi’iyah lainnya yang lebih cenderung pada pendapat qodiim (yang lama, saat Imam Syafi’i di Irak) (Lihat Kifayatul Akhyar, hal. 80 dan Al Iqna’, 199). Pendapat inilah yang lebih kuat.\n\n"
+        "Simpulannya, shalat Maghrib memiliki tiga waktu: (1) waktu ikhtiyar (pilihan) dan fadhilah (utama), yaitu di awal waktu, (2) waktu jawaz (boleh), yaitu sampai cahaya merah saat matahari tenggelam menghilang, (3) waktu ‘udzur, yaitu bagi yang menjamak dengan shalat ‘Isya’ (Lihat Al Iqna’, 1: 198-199).\n\n"
+        "Disunnahkan untuk menyegerakan melakukan shalat Maghrib di awal waktu. Hal ini berdasarkan hadits dari ‘Uqbah bin ‘Amir radhiyallahu ‘anhu,\n"
+"لاَ تَزَالُ أُمَّتِى بِخَيْرٍ – أَوْ قَالَ عَلَى الْفِطْرَةِ – مَا لَمْ يُؤَخِّرُوا الْمَغْرِبَ إِلَى أَنْ تَشْتَبِكَ النُّجُومُ\n"
+        "“Umatku akan senantiasa dalam kebaikan (atau fithroh) selama mereka tidak mengakhirkan waktu sholat maghrib hingga munculnya bintang (di langit)” (HR. Abu Daud no. 418 dan Ahmad 5: 421. Syaikh Syu’aib Al Arnauth mengatakan bahwa hadits ini hasan karena adanya Muhammad bin Ishaq).\n"
+        "Juga perlu dipahami bahwa sebelum shalat Maghrib masih ada kesempatan untuk melaksanakan shalat sunnah 2 raka’at. Dari ‘Abdullah bin Mughoffal Al Muzaniy, Nabi shallallahu ‘alaihi wa sallam bersabda,\n"
+"« صَلُّوا قَبْلَ الْمَغْرِبِ رَكْعَتَيْنِ ». ثُمَّ قَالَ « صَلُّوا قَبْلَ الْمَغْرِبِ رَكْعَتَيْنِ ». ثُمَّ قَالَ عِنْدَ الثَّالِثَةِ « لِمَنْ شَاءَ ». كَرَاهِيَةَ أَنْ يَتَّخِذَهَا النَّاسُ سُنَّةً\n"
+        "“Kerjakanlah shalat sebelum Maghrib 2 raka’at.” Kemudian beliau bersabda lagi, “Kerjakanlah shalat sebelum Maghrib 2 raka’at.” Kemudian beliau bersabda sampai yang ketiga dengan ucapan yang sama, lalu beliau ucapkan, “Bagi siapa yang mau”. Hal ini beliau katakan karena tidak disukai jika hal tersebut dirutinkan. (HR. Abu Daud no. 1281 dan Ahmad 5: 55. Syaikh Al Albani mengatakan bahwa hadits ini shahih).\n\n"
+        "dan Hanya ALLAH yang Maha Mengetahui\n"
+        "Sumber :"
+    </string>
+
+    <string name="Isyaa">
+        "   Sebagaimana disebutkan dalam matan Abi Syuja’, “Awal waktu shalat ‘Isya’ adalah jika awan merah di ufuk telah hilang. Akhir waktunya -yang disebut waktu ikhtiyar (pilihan)- adalah hingga 1/3 malam. Akhir waktu jawaz (bolehnya) adalah saat terbit fajar kedua (fajar shodiq).”\n"
+        "Awal waktu shalat ‘Isya’ sebagaimana disepakati oleh para ulama adalah mulai dari hilangnya syafaq. Awal waktu ini disepakati oleh para ulama (Lihat Shahih Fiqh Sunnah, 1: 244).\n\n"
+        "Dalil yang menunjukkan awal waktu shalat ‘Isya’ sebagaimana diterangkan dalam hadits shalat Nabi –shallallahu ‘alaihi wa sallam– bersama Jibril,\n"
+        "وَصَلَّى بِىَ الْعِشَاءَ حِينَ غَابَ الشَّفَقُ\n"
+        "“Lalu beliau melaksanakan shalat ‘Isya’ bersamaku ketika cahaya merah saat matahari tenggelam hilang.”\n"
+        "Yang dimaksud syafaq adalah cahaya merah di ufuk barat saat matahari tenggelam. Syafaq ini adalah cahaya merah sebagaimana dipahami dari sisi makna bahasa, bukan cahaya putih (Lihat Al Iqna’, 1: 199).\n"
+        "Adapun waktu akhir shalat ‘Isya, inilah yang diperselisihkan oleh para ulama. Menurut ulama Syafi’iyah, akhir waktunya adalah sampai sepertiga malam. Ini disebut waktu ikhtiyar menurut Syafi’iyah. Alasannya disebutkan dalam hadits Jibril, pada hari kedua beliau shalat hingga sepertiga malam. Disebutkan dalam hadits,\n"
+"وَصَلَّى بِىَ الْعِشَاءَ إِلَى ثُلُثِ اللَّيْل\nِ"
+        "“Lalu beliau shalat ‘Isya’ hingga sepertiga malam.” Jika dikatakan sepertiga malam, maka waktu malam dihitung dari Maghrib hingga shubuh, sekitar ada 10 jam. Jika maghrib jam 6 sore, maka sepertiga malam sekitar jam setengah sepuluh malam.\n\n"
+        "Sedangkan hadits lain menyebutkan waktu shalat ‘Isya’ hingga pertengahan malam sebagaimana dalam hadits,\n"
+"لولا أن أشق  على أمتي لفرضت عليهم السواك مع الوضوء ، ولأخرت صلاة العشاء إلى نصف الليل\n"
+        "“Seandainya tidak memberatkan umatku, tentu aku akan mewajibkan bagi mereka untuk bersiwak setiap kali wudhu’ dan aku akan mengakhirkan shalat ‘Isya’ hingga pertengahan malam.” (HR. Al Hakim dalam Al Mustadrok, 1: 245, dishahihkan oleh Al Hakim). Pendapat yang memilih shalat ‘Isya berakhir hingga pertengahan malam dipilih oleh Imam Nawawi rahimahullah dalam Syarh Muslim. Dalam Al Majmu’, Imam Nawawi menyebutkan bahwa kebanyakan ulama berpegang dengan pendapat ini (Lihat Al Iqna’, 1: 200). Namun sekali lagi, waktu tersebut masih disebut waktu ikhtiyar, yaitu waktu penunaian shalat secara ada-an (di waktunya).\n\n"
+        "Sedangkan waktu jawaz (bolehnya) adalah hingga terbit fajar kedua (fajar shodiq, tanda masuk shalat Shubuh). Dalil pegangannya adalah hadits Abu Qotadah,\n"
+"أَمَا إِنَّهُ لَيْسَ فِى النَّوْمِ تَفْرِيطٌ إِنَّمَا التَّفْرِيطُ عَلَى مَنْ لَمْ يُصَلِّ الصَّلاَةَ حَتَّى يَجِىءَ وَقْتُ الصَّلاَةِ الأُخْرَى\n\n"
+        "“Orang yang ketiduran tidaklah dikatakan tafrith (meremehkan). Sesungguhnya yang dinamakan meremehkan adalah orang yang tidak mengerjakan shalat sampai datang waktu shalat berikutnya.” (HR. Muslim no. 681). Waktu jawaz ini adalah waktu masih dibolehkan shalat ‘Isya’, masih dianggap ada-an (ditunaikan di waktunya) dan tidak terkena dosa bagi yang menunaikan ketika itu. Beda dengan ulama Hambali yang berpendapat bahwa penunaian shalat ‘Isya setelah pertengahan malam adalah berdosa dan ini adalah waktu dhoruroh menurut mereka. Waktu dhoruroh hanya dibolehkan bagi orang yang punya udzur seperti wanita yang baru suci dari haidh, orang kafir yang baru masuk Islam, seseorang yang baru baligh, orang gila yang kembali sadar, orang yang bangun karena ketiduran dan orang sakit yang baru sembuh. Orang-orang yang punya udzur seperti itu masih boleh mengerjakan shalat ‘Isya’ ketika waktu dhoruroh.\n\n"
+        "‘Ala kulli haal, untuk hati-hatinya, kita mengerjakan shalat ‘Isya’ berakhir hingga pertengahan malam. Ini waktu akhir shalat ‘Isya’ yang dianggap waktu ikhtiyar, disepakati oleh ulama Syafi’i dan Hambali. Pertengahan malam dihitung dari waktu maghrib hingga shubuh, sekitar jam 11 malam. Wallahu a’lam.\n\n"
+
+        " dan Hanya ALLAH yang Maha Mengetahui\n"
+        "Sumber :"
+    </string>
+
+    <string name="Jumat">
+
+        "   Shalat Jumat hukumnya fardu ‘ain\n"
+
+        "Bagi setiap orang islam laki-laki, hal ini telah menjadi ijma’ (kesepakatan) tanpa ada perbedaan pendapat dikalangan ulama. Dan dalil pensyariatannya termaktub di dalam Al-Quran dan  As-sunnah an-Nabawiyah, sehingga pengingkaran atas syariat wajib jum’at adalah kekafiran.\n\n"
+        "Hanya Ibnu Rusyd menyebutkan adanya beberapa pendapat yang berlainan dalam kitabnya, tetapi hal ini telah dibantah oleh para ulama, dan ulama telah menetapkan tidaklah mengingkari wajibnya jum’at kecuali ahlu bid’ah dan pengikut hawa nafsu.\n\n"
+        "Berikut ini dalil-dalil hukum fardhu ‘ain shalat jum’at bagi laki-laki :\n"
+
+        "Perintah wajibnya shalat jum’at termaktub dalam ayat :\n\n"
+
+"يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِي لِلصَّلاةِ مِن يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَى ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ذَلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ\n\n"
+        "“Wahai orang-orang beriman, apabila diseru untuk menunaikan shalat Jum`at, maka bersegeralah kalian kepada mengingat Allah dan tinggalkanlah jual beli. Yang demikian itu lebih baik bagimu jika kamu mengetahui.” ( Al-Jumu`ah : 9)\n\n"
+
+        "Diantara hadits-hadits yang menerangkan pensyariatan shalat jum’at adalah :\n\n"
+        "1.Dari Abi Al-Ja`d Adh-dhamiri ra. berkata bahwa Rasulullah Saw bersabda,\n"
+
+"مَنْ تَرَكَ َثلاَثَ جُمَعٍ تَهَاوُنًا طبَعَ الله عَلىَ قَلْبِهِ\n\n"
+        ""Orang yang meninggalkan 3 kali shalat Jumat karena lalai, Allah akan menutup hatinya." (HR. Abu Daud)\n\n"
+
+        "2.Dari Thariq bin Syihab radhiyallahu `anhu bahwa Rasulullah Saw bersabda :\n"
+
+        ""Shalat Jumat itu adalah kewajiban bagi setiap muslim dengan berjamaah, kecuali atas 4 orang, (yaitu) Budak, Wanita, Anak kecil dan Orang sakit." (HR. Abu Daud)\n\n"
+
+        "3.Dari Ibnu Umar dan Abu Hurairah radhiyallahu `anhuma, bahwa mereka mendengar Rasulullah Saw bersabda di atas mimbar :\n"
+
+"لَيَنتَهِيَنَّ أَقْوَامٌ عَنْ وَدْعِهِمُ الجُمُعَةَ أَوْ لَيَخْتَمَنَّ الله عَلَى قُلُوْبِهِمْ ثُمَّ لَيَكُوْنَنَّ مِنَ الغَافِلِيْنَ\n\n"
+
+        "“Hendaklah orang-orang berhenti dari meninggalkan shalat Jumat atau Allah akan menutup hati mereka dari hidayah sehingga mereka menjadi orang-orang yang lalai." (HR. Muslim)\n\n"
+        "Berdasarkan hadits-hadits diatas, para ulama menghukumi orang-orang yang meninggalkan kewajiban shalat jum’at sebagai pelaku dosa besar dan termasuk kekufuran.\n"
+        "dan Hanya ALLAH yang Maha Mengetahui\n"
+        "Sumber :"
+    </string>
+
+    <string name="SunnahJumat">
+        "   Hari Jumat adalah hari yang mulia, dan kaum muslimin di seluruh penjuru dunia memuliakannya. Keutamaan yang besar tersebut menuntut umat Islam untuk mempelajari petunjuk Rasulullah dan sahabatnya, bagaimana seharusnya msenyambut hari tersebut agar amal kita tidak sia-sia dan mendapatkan pahala dari Allah ta’ala. Berikut ini beberapa adab yang harus diperhatikan bagi setiap muslim yang ingin menghidupkan syariat Nabi shallallahu ‘alaihi wa sallam pada hari Jumat.\n\n"
+
+
+"1. Memperbanyak Sholawat Nabi\n\n"
+
+"Rasulullah shallallahu ‘alaihi wa sallam bersabda yang artinya, “Sesungguhnya hari yang paling utama bagi kalian adalah hari Jumat, maka perbanyaklah sholawat kepadaku di dalamnya, karena sholawat kalian akan ditunjukkan kepadaku, para sahabat berkata: ‘Bagaimana ditunjukkan kepadamu sedangkan engkau telah menjadi tanah?’ Nabi bersabda: ‘Sesungguhnya Allah mengharamkan bumi untuk memakan jasad para Nabi.” (Shohih. HR. Abu Dawud, Ibnu Majah, An-Nasa’i)\n\n"
+
+"2. Mandi Jumat\n\n"
+
+"Mandi pada hari Jumat wajib hukumnya bagi setiap muslim yang balig berdasarkan hadits Abu Sa’id Al Khudri, di mana Rasulullah bersabda yang artinya, “Mandi pada hari Jumat adalah wajib bagi setiap orang yang baligh.” (HR. Bukhori dan Muslim). Mandi Jumat ini diwajibkan bagi setiap muslim pria yang telah baligh, tetapi tidak wajib bagi anak-anak, wanita, orang sakit dan musafir. Sedangkan waktunya adalah sebelum berangkat sholat Jumat. Adapun tata cara mandi Jumat ini seperti halnya mandi janabah biasa. Rasulullah bersabda yang artinya, “Barang siapa mandi Jumat seperti mandi janabah.” (HR. Bukhari dan Muslim)\n\n"
+
+"3. Menggunakan Minyak Wangi\n\n"
+
+"Nabi shallallahu ‘alaihi wa sallam bersabda yang artinya, “Barang siapa mandi pada hari Jumat dan bersuci semampunya, lalu memakai minyak rambut atau minyak wangi kemudian berangkat ke masjid dan tidak memisahkan antara dua orang, lalu sholat sesuai yang ditentukan baginya dan ketika imam memulai khotbah, ia diam dan mendengarkannya maka akan diampuni dosanya mulai Jumat ini sampai Jumat berikutnya.” (HR. Bukhari dan Muslim)\n\n"
+
+"4. Bersegera Untuk Berangkat ke Masjid\n\n"
+
+"Anas bin Malik berkata, “Kami berpagi-pagi menuju sholat Jumat dan tidur siang setelah sholat Jumat.” (HR. Bukhari). Al Hafidz Ibnu Hajar berkata, “Makna hadits ini yaitu para sahabat memulai sholat Jumat pada awal waktu sebelum mereka tidur siang, berbeda dengan kebiasaan mereka pada sholat zuhur ketika panas, sesungguhnya para sahabat tidur terlebih dahulu, kemudian sholat ketika matahari telah rendah panasnya.” (Lihat Fathul Bari II/388)\n\n"
+
+"5. Sholat Sunnah Ketika Menunggu Imam atau Khatib\n\n"
+
+"Abu Huroiroh radhiallahu ‘anhu menuturkan bahwa Nabi Muhammad shallallahu ‘alaihi wa sallam bersabda, “Barang siapa mandi kemudian datang untuk sholat Jumat, lalu ia sholat semampunya dan dia diam mendengarkan khotbah hingga selesai, kemudian sholat bersama imam maka akan diampuni dosanya mulai jum’at ini sampai jum’at berikutnya ditambah tiga hari.” (HR. Muslim)\n\n"
+
+"6. Tidak Duduk dengan Memeluk Lutut Ketika Khatib Berkhotbah\n\n"
+
+"“Sahl bin Mu’ad bin Anas mengatakan bahwa Rasulullah melarang Al Habwah (duduk sambil memegang lutut) pada saat sholat Jumat ketika imam sedang berkhotbah.” (Hasan. HR. Abu Dawud, Tirmidzi)\n\n"
+
+"7. Sholat Sunnah Setelah Sholat Jumat\n\n"
+
+"Rasulullah bersabda yang artinya, “Apabila kalian telah selesai mengerjakan sholat Jumat, maka sholatlah empat rakaat.” Amr menambahkan dalam riwayatnya dari jalan Ibnu Idris, bahwa Suhail berkata, “Apabila engkau tergesa-gesa karena sesuatu, maka sholatlah dua rakaat di masjid dan dua rakaat apabila engkau pulang.” (HR. Muslim, Tirmidzi)\n\n"
+
+"8. Membaca Surat Al Kahfi\n\n"
+
+"Nabi bersabda yang artinya, “Barang siapa yang membaca surat Al Kahfi pada hari Jumat maka Allah akan meneranginya di antara dua Jumat.” (HR. Imam Hakim dalam Mustadrok, dan beliau menshahihkannya)\n\n"
+
+"Demikianlah sekelumit etika yang seharusnya diperhatikan bagi setiap muslim yang hendak menghidupkan ajaran Nabi Muhammad shallallahu ‘alaihi wa sallam ketika di hari Jumat. Semoga kita menjadi hamba-Nya yang senantiasa di atas sunnah Nabi-Nya dan selalu istiqomah di atas jalan-Nya.\n\n\n"
+
+        "dan Hanya ALLAH yang Maha Mengetahui\n"
+        "Sumber :"
+    </string>
+
+   <string name="SyaratJumat">
+        "   Yang Di Wajibkan Shalat Jum’at Atasnya\n\n"
+        "Kewajiban shalat jumat adalah fardhu a’in, artinya berlaku untuk seluruh kaum mulimin, dengan kriteria sebagai berikut :\n\n"
+        "Laki-laki, sedangkan wanita tidak diwajibkan untuk shalat jumat namun bila dia mengerjakan, maka kewajiban shalat zuhurnya telah gugur (tidak perlu shalat zhuhur lagi).\n\n"
+        "Dalam keadaan sehat, sedangkan orang sakit tidak wajib shalat jumat.\n"
+        "Dewasa yaitu baligh, sedang anak-anak tidak wajib shalat jumat.\n"
+        "Muqimin yaitu orang yang menetap bukan musafir atau yang sedang dalam perjalanan.\n"
+        "Merdeka bukan hamba sahaya.\n"
+        "Dengan demikian, shalat jum’at itu tidak wajib bagi kaum Wanita, anak-anak, orang sakit, musafir dan budak. (Al Mausu’ah Fiqhiyah al Kuwaitiyyah, 27/198)\n\n"
+        "    Syarat shahnya shalat jum’at\n"
+        "Shalat jum’at memiliki syarat sebagaimana syarat shalat pada umumnya. Hanya kemudian ada syarat tambahan, yang mana masing-masing mazhab berbeda pendapat, menurut syafi’i dan Hanbali ada 7 tambahan, Maliki menambahkan 5 syarat lagi selain syarat shalat, sedangkan Hanafi hanya menambahkan 4 syarat. Berikut rinciannya :\n\n"
+
+       "A. Dikerjakan pada waktu Dzuhur\n\n"
+
+       "Jumhur ulama mazhab berpendapat bahwa shalat jum’at hanya sah bila dikerjakan pada waktu Dzuhur dan tidak sah dikerjakan pada waktu lainnya.\n\n"
+ "Hal ini berdasarkan hadits riwayat sahabat Anas ra. Ia berkata, “Rasulullah Saw biasa shalat Jum’at setelah matahari condong.” (HR. Bukhari)\n"
+"Pendapat inilah yang diikuti mayoritas ulama, tidak ada yang menyelisihi kecuali sebagian pengikut mazhab Hanbali.\n\n"
+"Menurut imam Ahmad, bahwa shalat jum’at boleh dikerjakan pada waktu matahari tergelincir, tetapi awal waktunya adalah waktu bolehnya dilaksanakan shalat ‘id. Pendapat ini disesuaikan dengan perkataan Abdullah bin saidan.\n\n"
+
+       "B. Diawali Khutbah Jum’at\n\n"
+
+       "Ulama bersepakat bahwa shalat jum’at harus didahului oleh khutbah jum’at, shalat jum’at tidak shah tanpanya. Hal ini didasarkan pada firman Allah Swt  :  “Maka bersegeralah kamu mengingat Allah.” (Al Jumu’ah:9)\n\n"
+"Makna ‘mengingat’ pada ayat diatas adalah khutbah, karena Nabi Saw tidak pernah mengerjakan shalat jum’at kecuali berkhutbah sebelumnya.\n\n"
+
+       "C.  Berjama’ah\n\n"
+
+       "Ulama telah bersepakat, bahwa shalat jum’at wajib dikerjakan secara berjama’ah. Tidak ada perbedaan pandangan dalam hal ini, namun, mereka berbeda pendapat tentang batas minimal jumlah jama’ah yang menghadirinya, berikut ini pendapat ulama mazhab mengenai hal ini :\n\n""
+       A.   Al-Hanafiyah\n\n"
+
+"Pendapat yang paling shahih dari mazhab ini mengatakan bahwa jum’at sudah mencukupi dikerjakan dengan tiga orang selain imam.[\n"
+"Dalil yang digunakan yaitu bahwa tidak ada nash dalam Al-Quran Al-Karim yang mengharuskan jumlah tertentu, tetapi hanya diisyaratkan dalam bentuk jama’. Dan dalam kaidah bahasa arab, jumlah minimal untuk bisa disebut jama’ adalah tiga orang, bahkan dua orang (isim tasniyah) sudah masuk kategori jama’.\n\n"
+"يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِي لِلصَّلاةِ مِن يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَى ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ذَلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ\n\n"
+"“Wahai orang-orang beriman, apabila diseru untuk menunaikan shalat Jum`at, maka bersegeralah kalian kepada mengingat Allah dan tinggalkanlah jual beli. Yang demikian itu lebih baik bagimu jika kamu mengetahui.” (QS. Al-Jumu`ah : 9)\n\n"
+"Kata kalian pada ayat diatas menurut mazhab hanafi tidak menunjukkan pada jumlah tertentu,  tetapi hanya bermakna jama’.\n\n"
+
+       "B.    Al-Malikiyah\n\n"
+
+       "Al-Malikiyah menyaratkan bahwa sebuah shalat jumat itu baru sah bila dilakukan oleh minimal 12 orang untuk shalat dan khutbah.\n"
+"Pendapat ini didasarkan pada riwayat yang disebutkan dalam surat Al-Jumu’ah yaitu peristiwa bubarnya sebagian peserta shalat jumat karena datangnya rombongan kafilah dagang yang baru pulang berniaga. Serta merta mereka meninggalkan Rasulullah Saw yang saat itu sedang berkhutbah sehingga yang tersisa hanya tinggal 12 orang saja.\n\n"
+"وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا قُلْ مَا عِندَ اللَّهِ خَيْرٌ مِّنَ اللَّهْوِ وَمِنَ التِّجَارَةِ وَاللَّهُ خَيْرُ الرَّازِقِينَ\n\n"
+"“Dan apabila mereka melihat perniagaan atau permainan, mereka bubar untuk menuju kepadanya dan mereka tinggalkan kamu sedang berdiri. Katakanlah: `Apa yang di sisi Allah lebih baik daripada permainan dan perniagaan`, dan Allah Sebaik-baik Pemberi rezki.” ( Al-Jumu`ah : 11)\n\n"
+"Oleh kalangan Al-Malikiyah, tersisanya 12 orang yang masih tetap berada dalam shaf shalat Jum`at itu itu dianggap sebagai syarat minimal jumlah peserta shalat Jumat.\n"
+
+       "C.    Asy-Syafi`iyah dan Al-Hanabilah\n"
+
+       "Kedua mazhab ini menyaratkan bahwa sebuah shalat jumat itu tidak sah kecuali dihadiri oleh minimal 40 orang yang ikut shalat dan khutbah dari awal sampai akhirnya.\n\n"
+"Dalil yang digunakan adalah sebuah hadits dari Ibnu Mas`ud ra. bahwa Rasulullah Saw shalat Jum`at di Madinah dengan jumlah jama’ah 40 orang atau lebih. (HR. Ad-Daruquthuny).\n\n\n"
+
+       "dan Hanya ALLAH yang Maha Mengetahui\n"
+       "Sumber :"
+    </string>
+
+    <string name="Niat">
+
+        "   Mengeraskan bacaan niat tidaklah wajib dan tidak pula sunnah dengan kesepakatan seluruh ulama.\n\n"
+        "Bahkan hal tersebut adalah bid’ah yang bertentangan dengan syari’at. Jika seseorang berkeyakinan bahwa perbuatan ini adalah bagian dari ajaran syariat, maka ia orang yang jahil, menyimpang, dan berhak mendapatkan hukuman ta’zir jika ia tetap bersikeras dengan keyakinannya, dan tentu saja setelah diberikan pengertian dan penjelasan. Lebih parah lagi jika perbuatannya itu mengganggu orang yang ada di sebelahnya, atau ia mengulang-ulang bacaan niatnya. Hal ini difatwakan oleh lebih dari seorang ulama. Di antaranya Al Qodhi Abu Ar Rabi Sulaiman Ibnu As Syafi’i, ia berkata:\n\n"
+
+"الجهر بالنّية وبالقراءة خلف الإمام ليس من السنّة، بل مكروه، فإن حصل به تشويش على المصلّين فحرام، ومن قال بإن الجهر بلفظ النيّة من السنّة فهو مخطئ، ولا يحلّ له ولا لغيره أن يقول في دين الله تعالى بغير علم\n\n"
+
+        "“Mengeraskan bacaan niat atau mengeraskan bacaan Qur’an di belakang imam, bukan termasuk sunnah. Bahkan makruh hukumnya. Jika membuat berisik jama’ah yang lain, maka haram. Yang berpendapat bahwa mengeraskan niat itu hukumnya sunnah, itu salah. Tidak halal baginya atau bagi yang lain berbicara tentang agama Allah Ta’ala tanpa ilmu (dalil)”\n\n"
+
+        "Di antaranya juga, Abu Abdillah Muhammad bin Al Qasim At Tunisi Al Maliki, ia berkata:\n"
+
+"النيّة من أعمال القلوب، فالجهر بها بدعة، مع ما في ذلك من التشويش على الناس\n\n"
+
+        "“Niat itu termasuk amalan hati. Mengeraskannya bid’ah. Lebih lagi jika perbuatan itu membuat berisik orang lain”\n"
+
+        "Di antaranya juga, Asy Syaikh ‘Alauddin bin ‘Athar, ia berkata:\n"
+
+"ورفع الصّوت بالنيّة مع التشويش على المصلّين حرام إجماعاً، ومع عدمه بدعة قبيحة، فإن قصد به الرّياء كان حراماً من وجهين، كبيرة من الكبائر، والمنْكِرُ على مَنْ قال بأن ذلك من السنّة مصيب، ومصوّبة مخطئ، ونسبته إلي دين الله اعتقاداً كفر، وغير اعتقاد معصية.\n\n"
+
+"ويجب على كل مؤمن تمكَّن مِن زجره، ومنعه وردعه، ولم ينقل هذا النقل عن رسول الله – صلى الله عليه وسلم -، ولاعن أحدٍ من أصحابه، ولا عن أحد ممن يقتدى به من علماء الإسلام\n\n"
+
+        "“Meninggikan suara untuk membaca niat sehingga membuat berisik di antara jama’ah hukumnya haram secara ijma’ (consensus para ulama). Jika tidak membuat berisik, ia adalah perbuatan bid’ah yang jelek.\n\n"
+        " Jika ia melakukan hal tersebut dalam rangka riya, maka haramnya ganda. Ia juga merupakan dosa besar. Yang mengingkari bahwa perbuatan ini adalah sunnah, ia berbuat benar. Yang membenarkan bahwa perbuatan ini adalah sunnah, ia salah. Menisbatkan perbuatan ini pada agama Allah adalah keyakinan yang kufur. Jika tidak sampai meyakini hal tersebut, maka termasuk maksiat. Setiap muslim wajib dengan serius mewaspadai perbuatan ini, melarangnya dan membantahnya. Tidak ada satupun riwayat dari Rasulullah Shallallahu’alaihi Wasallam tentang hal ini, tidak pula dari satupun sahabatnya, tidak pula dari para ulama Islam yang meneladani mereka”.\n"
+        " (Semua nukilan di atas dapat ditemukan di Majmu’ah Ar Rasail Al Kubra, 1/254-257)\n\n"
+
+"Demikian juga, melafalkan niat secara sirr (samar) tidak wajib menurut para imam madzhab yang empat juga para imam yang lain. Tidak ada seorang pun yang berpendapat hal itu wajib. Baik dalam shalat, thaharah ataupun puasa. Abu Daud pernah bertanya kepada Imam Ahmad:\n\n"
+
+"بقول المصلّي قبل التكبير شيئاً؟ قال: لا\n"
+
+        "“Apakah orang yang shalat mengucapkan sesuatu sebelum takbir? Imam Ahmad menjawab: tidak ada” (Masa-il Al Imam Ahmad, 31)\n"
+
+        "As Suyuthi berkata,\n"
+
+"ومن البدع أيضاً: الوسوسة في نيّة الصّلاة، ولم يكن ذلك من فعل النبي – صلى الله عليه وسلم – ولا أصحابة، كانوا لا ينطقون بشيء من نية الصلاة بسوى التكبير. وقد قال تعالى: لقد كان لكم في رسول الله أُسوة حسنة\n\n"
+
+        "“Termasuk bid’ah, was-was dalam niat shalat. Nabi Shalallahu’alaihi Wasallam dan para sahabat beliau tidak pernah begitu. Mereka tidak pernah sedikitpun mengucapkan lafal niat shalat selain takbir. Dan Allah telah berfirman:\n\n"
+
+"لقد كان لكم في رسول الله أُسوة حسنة\n\n"
+        "Telah ada pada diri Rasulullah teladan yang baik‘ (QS. Al Ahzab: 21).\n\n"
+        "dan Hanya ALLAH yang Maha Mengetahui\n"
+        "Sumber :"
+    </string>
+
+    <string name="Kisah">
+        "   Sahabat Abu Hurairah radhiyallahu ‘anhu menuturkan bahwa pada suatu hari,\n\n"
+        "seorang sahabat masuk ke dalam masjid. Saat itu Rasulullah shallallahu ‘alaihi wa salam juga tengah berada dalam masjid, tepatnya di sudut masjid. Sebagai penghormatan terhadap masjid, sahabat tersebut melakukan shalat sunnah dua raka’at tahiyyatul masjid. Rasulullah shallallahu ‘alaihi wa salam memperhatikan shalat sahabat tersebut.\n\n"
+
+        "Usai mengerjakan shalat, sahabat itu mendatangi Rasulullah shallallahu ‘alaihi wa salam. Rasulullah shallallahu ‘alaihi wa salam menjawab:\n"
+
+"وَعَلَيْكَ السَّلاَمُ، ارْجِعْ فَصَلِّ فَإِنَّكَ لَمْ تُصَلِّ\n\n"
+
+        "“Wa’alaikas salam. Tolong ulangi shalatmu, karena sesungguhnya engkau tadi belum shalat!”\n"
+
+        "Sahabat itu kaget dengan perintah Rasulullah shallallahu ‘alaihi wa salam. Setahunya, ia telah mengerjakan shalat sejak takbir sampai salam dengan tertib sebanyak dua raka’at. Ia sangat ingat, barusan ia telah mengerjakan shalat. Mungkinkah Rasulullah shallallahu ‘alaihi wa salam tadi tidak melihat shalatnya sehingga beliau menyabdakan seperti itu? Namun ia tidak berani membantah sabda Rasulullah shallallahu ‘alaihi wa salam. Dengan tanda tanya dalam hati, ia kerjakan juga perintah Rasulullah shallallahu ‘alaihi wa salam. Ia mengulangi shalatnya kembali, secara tertib dari takbir sampai salam, sebanyak dua raka’at.\n\n"
+
+        "Usai mengerjakan shalat, sahabat itu mendatangi Rasulullah shallallahu ‘alaihi wa salam. Rasulullah shallallahu ‘alaihi wa salam menjawab:\n"
+
+"وَعَلَيْكَ السَّلاَمُ، ارْجِعْ فَصَلِّ فَإِنَّكَ لَمْ تُصَلِّ\n"
+
+        "“Wa’alaikas salam. Tolong ulangi shalatmu, karena sesungguhnya engkau tadi belum shalat!”\n"
+
+        "Sahabat itu kembali terkejut. Keterkejutannya kali ini bahkan lebih besar dari keterkejutannya sebelumnya. Sangat jelas, ia baru saja melaksanakan shalat dua raka’at. Namun Rasulullah shallallahu ‘alaihi wa salam masih juga menyatakan dirinya belum shalat. Dengan tanda tanya yang semakin besar dalam hati, ia laksanakan juga perintah Rasulullah shallallahu ‘alaihi wa salam tersebut. Ia menjauh dari Rasulullah shallallahu ‘alaihi wa salam, kemudian melaksanakan shalat dua raka’at secara tertib sampai salam.\n\n"
+
+        "Usai mengerjakan shalat, sahabat itu mendatangi Rasulullah shallallahu ‘alaihi wa salam. Rasulullah shallallahu ‘alaihi wa salam menjawab:\n"
+
+"وَعَلَيْكَ السَّلاَمُ، ارْجِعْ فَصَلِّ فَإِنَّكَ لَمْ تُصَلِّ\n"
+
+        "“Wa’alaikas salam. Tolong ulangi shalatmu, karena sesungguhnya engkau tadi belum shalat!”\n"
+
+        "Subhanallah! Tiga kali sahabat itu mengerjakan shalat, tiga kali pula Rasulullah shallallahu ‘alaihi wa salam memerintahkan kepadanya untuk mengulang shalatnya. Rasulullah shallallahu ‘alaihi wa salam menganggap sahabat itu belum sekalipun melaksanakan shalat. Padahal Rasulullah shallallahu ‘alaihi wa salam melihat sendiri sahabat itu tiga kali shalat secara lengkap dan tertib dari takbir sampai salam.\n\n"
+
+        "Sahabat itu akhirnya menyerah. Jika ia mengulangi lagi shalatnya, mungkin saja Rasulullah shallallahu ‘alaihi wa salam akan memberikan komentar dan perintah yang sama: ulangi shalatmu karena sesungguhnya engkau tadi belum shalat! Akhirnya sahabat itu berkata dengan penuh harap:\n"
+
+"وَالَّذِي بَعَثَكَ بِالْحَقِّ، مَا أُحْسِنُ غَيْرَ هَذَا فَعَلِّمْنِي\n\n"
+
+        "“Demi Allah Yang telah mengutus Anda dengan kebenaran, saya tidak bisa shalat selain seperti shalat yang tadi. (Jika apa yang saya kerjakan tadi salah), maka ajarilah saya!”\n"
+
+        "Dengan penuh kasih sayang dan kesabaran, Rasulullah shallallahu ‘alaihi wa salam mengajari sahabat tersebut. Beliau bersabda,\n\n"
+
+"«إِذَا قُمْتَ إِلَى الصَّلاَةِ فَأَسْبِغِ الوُضُوءَ، ثُمَّ اسْتَقْبِلِ القِبْلَةَ فَكَبِّرْ، ثُمَّ اقْرَأْ بِمَا تَيَسَّرَ مَعَكَ مِنَ القُرْآنِ، ثُمَّ ارْكَعْ حَتَّى تَطْمَئِنَّ رَاكِعًا، ثُمَّ ارْفَعْ حَتَّى تَسْتَوِيَ قَائِمًا، ثُمَّ اسْجُدْ حَتَّى تَطْمَئِنَّ سَاجِدًا، ثُمَّ ارْفَعْ حَتَّى تَطْمَئِنَّ جَالِسًا، ثُمَّ اسْجُدْ حَتَّى تَطْمَئِنَّ سَاجِدًا، ثُمَّ ارْفَعْ حَتَّى تَطْمَئِنَّ جَالِسًا، ثُمَّ افْعَلْ ذَلِكَ فِي صَلاَتِكَ كُلِّهَا»\n\n"
+        "“Jika engkau hendak melaksanakan shalat, maka lakukanlah wudhu’ dengan sempurna, kemudian menghadaplah kiblat dan ucapkanlah takbir, kemudian bacalah surat (ayat) Al-Qur’an yang mudah bagimu (yaitu setelah membaca surat Al-Fatihah), kemudian lakukanlah ruku’ sampai engkau thuma’ninah (tenang) dalam ruku’, kemudian angkatlah kepalamu sampai engkau berdiri secara sempurna, kemudian lakukanlah sujud sampai engkau thuma’ninah (tenang) dalam sujud, kemudian angkatlah kepalamu dan duduklah (di antara dua sujud) sampai engkau thuma’ninah (tenang) dalam duduk, kemudian lakukanlah sujud sampai engkau thuma’ninah (tenang) dalam sujud, kemudian angkatlah kepalamu sampai engkau thuma’ninah (tenang) dalam duduk (((dalam riwayat lain: kemudian berdirilah engkau sampai engkau thuma’ninah (tenang) dalam berdiri))), dan lakukanlah hal itu dalam seluruh (raka’at) shalatmu!”\n\n"
+
+        "dan Hanya ALLAH yang Maha Mengetahui\n"
+        "Sumber :"
+    </string>
+
+    <string name="about">
+
+" Naufal Lutfi Fadhlurrohman\n\n"
+
+" Santri di Qodr\n"
+"n4uf4l55@ymail.com\n\n"
+
+"Assalamualaikum\n"
+
+" Hi my name Naufal Lutfi Fadhlurrohman\n"
+"I now had learned about science and programming dien android\n"
+"I am a patient, tenacious, a little shy, a little arrogant, sociable and helpful.\n"
+"My goal is to learn in a short programmer to be a useful Android Developer of religion and state, as well as\n"
+" carry out the commands of Allah and avoid His prohibitions.\n\n"
+
+" Pengalaman\n"
+"Santri di Qodr\n"
+"Agustus 2016 - Saat ini (4 bulan)\n"
+"Staff di Waroeng Steak and Shake\n"
+"September 2014 - Juli 2016 (1 tahun 11 bulan)\n\n"
+
+" Sertifikasi\n"
+"Sertifikat Kelulusan Belajar Membangun Aplikasi Android Native 1\n"
+"Dicoding November 2016 sampai November 2019\n"
+"Sertifikat Kelulusan Belajar Membangun Aplikasi Android Native 2\n"
+"Dicoding Oktober 2016 sampai Oktober 2019\n"
+"Sertifikat Kelulusan Belajar Membangun Aplikasi Android HTML5\n"
+"Dicoding November 2016 sampai November 2019\n\n"
+
+" Pendidikan\n\n"
+
+"Pondok Programmer
+"Android Dev, 2016 - 2019\n\n"
+
+"  Keahlian dan Keterampilan\n"
+"Java"\n"
+"XML"\n"
+"Android\n\n\n"
+
+    </string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+    <item android:title="Shalat Wajib"
+
+        android:id="@+id/Shalatwajib"
+        android:icon="@drawable/ic_assignment_grey_500_24dp"/>
+    <item
+        android:title="Shalat Jumat"
+        android:icon="@drawable/ic_date_range_grey_500_24dp"
+        android:id="@+id/jumat"/>
+
+    <item android:title="Shalat Sunnah Rawatib"
+        android:id="@+id/rawatib"
+        android:icon="@drawable/ic_dns_grey_500_24dp"/>
+
+    <item
+        android:title="Cek Waktu Sholat"
+        android:icon="@drawable/ic_timelapse_grey_500_24dp"
+        android:id="@+id/waktu"/>
+    <item
+        android:title="Kisah Sahabat"
+        android:icon="@drawable/ic_question_answer_grey_500_24dp"
+        android:id="@+id/kisah"/>
+
+
+
+    <!--<item android:title="Others">-->
+    <!--<menu>-->
+    <!--<item-->
+    <!--android:title="Cek Jadwal Sholat"-->
+    <!--android:icon="@drawable/common_google_signin_btn_icon_dark_normal"-->
+    <!--android:id="@+id/pesan"/>-->
+
+    <!--</menu>-->
+    <!--</item>-->
+
+
+
+
+</menu>
